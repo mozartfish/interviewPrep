@@ -24,6 +24,12 @@ Sean Prashad <https://seanprashad.com/leetcode-patterns/>
  1. Reverse Linked List (One Branch)
  2. Fibonacci Sequence (Two Branch) 
  ## Day 4 - Sorting 
+ 1. Sort An Array (Insertion Sort)
+ 2. Sort An Array (Merge Sort)
+ 3. Merge K Sorted Lists
+ 4. Sort An Array (Quick Sort)
+ 5. Kth Largest Element in A List (Quick Select)
+ 6. Sort Colors (Bucket Sort)
  ## Day 5 - Binary Search 
  ## Day 6 - Trees 
  ## Day 7 - Backtracking 
