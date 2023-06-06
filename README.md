@@ -1,5 +1,6 @@
 # README 
-problem solving for interviews in python and golang
+problem solving for interviews in python and golang.\
+There is some overlap between the lists for problems
 ## Problem Lists
 Neetcode <https://neetcode.io/practice>\
 Grind 150 <https://www.techinterviewhandbook.org/grind75>\
@@ -32,7 +33,21 @@ Sean Prashad <https://seanprashad.com/leetcode-patterns/>
  5. Kth Largest Element in A List (Quick Select)
  6. Sort Colors (Bucket Sort)
  ## Day 5 - Binary Search 
- ## Day 6 - Trees 
+ 1. Binary Search (Iterative)
+ 2. Binary Search (Recursive)
+ 3. Search a 2D Matrix 
+ 4. Guess Number Higher or Lower 
+ 5. First Bad Version 
+ 6. Koko Eating Bananas
+ ## Day 6 - Trees
+ 1. Search In a Binary Tree 
+ 2. Insert into a BST 
+ 3. Delete Node in a BST
+ 4. Binary Tree Inorder Traversal 
+ 5. Kth Smallest Element in a BST 
+ 6. Construct Binary Tree Preorder and Inorder Traversal 
+ 7. Binary Tree Level Order Traversal 
+ 8. Binary Tree Right Side View
  ## Day 7 - Backtracking 
  ## Day 8 - Heaps + Priority Queues 
  ## Day 9 - Hashing 
