@@ -25,6 +25,7 @@ Sean Prashad <https://seanprashad.com/leetcode-patterns/>
  2. Fibonacci Sequence (Two Branch) 
  ## Day 4 - Sorting 
  1. Sort An Array (Insertion Sort)
+ 2. Sort An Array (Selection Sort)
  2. Sort An Array (Merge Sort)
  3. Merge K Sorted Lists
  4. Sort An Array (Quick Sort)
