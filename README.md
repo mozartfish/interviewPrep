@@ -73,7 +73,7 @@ Sean Prashad <https://seanprashad.com/leetcode-patterns/>
  ## Day 9 - Hashing 
  ### Hashing Applications
  1. Contains Duplicate 
- 2. Two SUm 
+ 2. Two Sum 
  3. LRU Cache 
  ### Hash Implementation
  4. Design Hashset 
