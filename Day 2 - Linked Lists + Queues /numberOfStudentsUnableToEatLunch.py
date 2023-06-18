@@ -1,5 +1,5 @@
 # runtime - O(n) where n represents the length of the number of students left 
-# space time - constant no additional space added per element 
+# space - additional space used for sandwich and student queues 
 class Solution:
     def countStudents(self, students: List[int], sandwiches: List[int]) -> int:
         from collections import deque 

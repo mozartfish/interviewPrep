@@ -1,5 +1,5 @@
 # runtime - same runtime for linked list operations 
-# space time - no additional space added for each element 
+# space - additional space used for creating linked list nodes 
 class ListNode:
     def __init__(self, value, prev=None):
         self.next = None 

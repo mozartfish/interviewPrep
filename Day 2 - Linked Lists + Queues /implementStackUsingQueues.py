@@ -1,5 +1,5 @@
 # runtime - constant time for stack operations 
-# space - constant no additional space added per element 
+# space - additional space used to create a queue
 class MyStack:
     from collections import deque 
 
