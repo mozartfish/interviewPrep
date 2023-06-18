@@ -1,5 +1,5 @@
 # runtime - O(n) where n represents the length of the string 
-# space - constant since no additional space allocated per element 
+# space - additional space added for stack and parentheses dictionary 
 class Solution:
     def isValid(self, s: str) -> bool:
         stack = [] 

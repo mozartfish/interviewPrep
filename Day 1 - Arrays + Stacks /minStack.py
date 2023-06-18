@@ -1,5 +1,5 @@
 # runtime - O(1) for stack operations 
-# space - constant since additional space is not allocated per element 
+# space - additional space used for stack and minstack 
 class MinStack:
 
     def __init__(self):
