@@ -6,7 +6,7 @@ Neetcode <https://neetcode.io/practice>\
 Grind 150 <https://www.techinterviewhandbook.org/grind75>\
 Sean Prashad <https://seanprashad.com/leetcode-patterns/>
 
-# NeetCode 
+# NeetCode Data Structures + Algorithms
 ## Day 1 Arrays + Stacks 
 ### Static + Dynamic Arrays
 1. Remove Duplicates from Sorted Array 
@@ -100,11 +100,10 @@ Sean Prashad <https://seanprashad.com/leetcode-patterns/>
  1. Number of 1 Bits 
  2. Counting Bits 
  3. Reverse Bits
- ## Day 13 - Advanced Arrays 
+
+ # NeetCode Advanced Data Structures + Algorithms
+ ## Advanced Arrays 
  ### Kadane's Algorithm
- 1. Maximum Subarray
- 2. Maximum Sum Circular Array
- 3. Longest Turbulent Array
 ### Sliding Window Fixed-Size 
 ### Dynamic Sliding Window
 ### Two Pointers
