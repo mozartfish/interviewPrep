@@ -1,5 +1,5 @@
 # runtime - O(n)
-# space - constant since no additional space is used 
+# space - constant since no additional space is used per element
 class Solution:
     def removeElement(self, nums: List[int], val: int) -> int:
         i = 0 

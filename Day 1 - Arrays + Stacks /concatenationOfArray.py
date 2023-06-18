@@ -1,5 +1,5 @@
-# - O(n) where n represents the number of elements 
-# - O(n) since we double the size of the array 
+# runtime - O(n) where n represents the number of elements 
+# space - constant since no additional space allocated per element
 class Solution:
     def getConcatenation(self, nums: List[int]) -> List[int]:
         n = len(nums)

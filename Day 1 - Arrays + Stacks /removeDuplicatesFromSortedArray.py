@@ -1,5 +1,5 @@
 # runtime - 0(n) where n represents the number of elements 
-# space = constants since no additional space is allocated
+# space = constants since no additional space is allocated per element
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
         i = 1 
