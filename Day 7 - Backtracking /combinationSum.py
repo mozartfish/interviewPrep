@@ -1,6 +1,5 @@
 # runtime - 0(2^n)
-
-lass Solution:
+class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
         subset = []
         result = []
