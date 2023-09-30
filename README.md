@@ -102,7 +102,7 @@ Sean Prashad <https://seanprashad.com/leetcode-patterns/>
  3. Reverse Bits
 
  # NeetCode Advanced Algorithms 
- ## Arrays 
+ ## Day 13 - Arrays 
  ### Kadane's Algorithm 
  1. Maximum Subarray 
  2. Maximum Circular Subarray 
@@ -127,14 +127,14 @@ Sean Prashad <https://seanprashad.com/leetcode-patterns/>
  18. Find Pivot Index 
  19. Product of Array Except Self 
  20. Subarray Sum Equals K 
- ## Linked Lists 
+ ## Day 14 - Linked Lists 
  ### Fast and Slow Pointers
  1. Middle of the Linked List 
  2. Maximum Twin Sum of A Linked List 
  3. Linked List Cycle 
  4. Linked List Cycle II 
  5. Find the Duplicate Number
- ## Trees 
+ ## Day 15 - Trees 
  ### Trie 
  1. Implement Trie Prefix Tree 
  2. Design Add And Search Words Data Structure 
@@ -154,12 +154,12 @@ Sean Prashad <https://seanprashad.com/leetcode-patterns/>
  13. Binary Search Tree Iterator 
  14. Binary Tree Preorder Traversal 
  15. Binary Tree Postorder Traversal 
- ## Heaps 
+ ## Day 16 - Heaps 
  ### Two Heaps 
  1. Find Median From Data Stream 
  2. Sliding Window Median 
  3. IPO 
- ## Backtracking 
+ ## Day 17 - Backtracking 
  ### Subsets
  1. Subsets 
  2. Subsets II 
@@ -170,7 +170,7 @@ Sean Prashad <https://seanprashad.com/leetcode-patterns/>
  ### Permutations 
  6. Permutations 
  7. Permutations II 
- ## Graphs 
+ ## Day 18 - Graphs 
  ### Dijkstra 
  1. Network Delay Time 
  2. Swim In Rising Water 
@@ -187,7 +187,7 @@ Sean Prashad <https://seanprashad.com/leetcode-patterns/>
  9. Course Schedule IV 
  10. Sort Items By Groups Respecting Dependencies 
  11. Alien Dictionary
- ## Dynamic Programming
+ ## Day 19 - Dynamic Programming
  ### 0/1 Knapsack 
  1. Partition Equal Subset Sum 
  2. Target Sum 
