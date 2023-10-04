@@ -102,108 +102,108 @@ Sean Prashad <https://seanprashad.com/leetcode-patterns/>
  3. Reverse Bits
 
  # NeetCode Advanced Algorithms 
- ## Day 13 - Arrays 
- ### Kadane's Algorithm 
+ ## Arrays 
+ ### Day 13 - Kadane's Algorithm 
  1. Maximum Subarray 
  2. Maximum Circular Subarray 
  3. Longest Turbulent Subarray 
- ### Sliding Window Fixed Size 
+ ### Day 14 - Sliding Window Fixed Size 
  4. Contains Duplicate II 
  5. Number of Subarrays of Size K and Avg Greater than or Equal to Threshold
- ### Sliding Window Variable Size 
+ ### Day 15 - Sliding Window Variable Size 
  7. Minimum Size Subarray Sum 
  8. Longest Substring Without Repeating Characters 
  9. Longest Repeating Character Replacement 
- ### Two Pointers
+ ### Day 16 - Two Pointers
  10. Valid Palindrome 
  11. Two Sum II Input Array is Sorted 
  12. Remove Duplicates From Sorted Array 
  13. Remove Duplicates from Sorted Array II 
  14. Container With Most Water
  15. Trapping Rain Water
- ### Prefix Sums 
+ ### Day 17 - Prefix Sums 
  16. Range Sum - Query Immutable 
  17. Range Sum Query 2D Immutable 
  18. Find Pivot Index 
  19. Product of Array Except Self 
  20. Subarray Sum Equals K 
- ## Day 14 - Linked Lists 
- ### Fast and Slow Pointers
+ ## Linked Lists 
+ ### Day 18 - Fast and Slow Pointers
  1. Middle of the Linked List 
  2. Maximum Twin Sum of A Linked List 
  3. Linked List Cycle 
  4. Linked List Cycle II 
  5. Find the Duplicate Number
- ## Day 15 - Trees 
- ### Trie 
+ ## Trees 
+ ### Day 19 - Trie 
  1. Implement Trie Prefix Tree 
  2. Design Add And Search Words Data Structure 
  3. Word Search II 
  4. Prefix and Suffix Search 
- ### Union-Find 
+ ### Day 20 - Union-Find 
  5. Redundant Connection 
  6. Accounts Merge 
  7. Number of Connected Components In An Undirected Graph
  8. Longest Consecutive Sequence
- ### Segment Tree 
+ ### Day 21- Segment Tree 
  9. Range Sum Query Mutable 
  10. Queue Reconstruction By Height 
  11. My Calendar I 
  12. Longest Increasing Subsequence II 
- ### Iterative DFS
+ ### Day 22 - Iterative DFS
  13. Binary Search Tree Iterator 
  14. Binary Tree Preorder Traversal 
  15. Binary Tree Postorder Traversal 
- ## Day 16 - Heaps 
- ### Two Heaps 
+ ## Heaps 
+ ### Day 23 - Two Heaps 
  1. Find Median From Data Stream 
  2. Sliding Window Median 
  3. IPO 
- ## Day 17 - Backtracking 
- ### Subsets
+ ## Backtracking 
+ ### Day 24 - Subsets
  1. Subsets 
  2. Subsets II 
- ### Combinations 
+ ### Day 25 - Combinations 
  3. Combinations 
  4. Combination Sum 
  5. Letter Combinations of a Phone Number
- ### Permutations 
+ ### Day 26 - Permutations 
  6. Permutations 
  7. Permutations II 
- ## Day 18 - Graphs 
- ### Dijkstra 
+ ## Graphs 
+ ### Day 27 - Dijkstra 
  1. Network Delay Time 
  2. Swim In Rising Water 
  3. Path With Maximum Probability
- ### Prim 
+ ### Day 28 - Prim 
  4. Min Cost to Connect All Points 
  5. Find Critical And Pseudo Critical Edges In A Minimum Spanning Tree 
- ### Kruskal 
+ ### Day 29 - Kruskal 
  5. Min Cost to Connect All Points
  6. Find Critical And Pseudo Critical Edges In A Minimum Spanning Tree
- ### Topological Sort
+ ### Day 30 - Topological Sort
  7. Course Schedule 
  8. Course Schedule II 
  9. Course Schedule IV 
  10. Sort Items By Groups Respecting Dependencies 
  11. Alien Dictionary
- ## Day 19 - Dynamic Programming
- ### 0/1 Knapsack 
+ ## Dynamic Programming
+ ### Day 31 - 0/1 Knapsack 
  1. Partition Equal Subset Sum 
  2. Target Sum 
  3. Ones and Zeroes 
  4. Last Stone Weight II 
- ### Unbounded Knapsack 
+ ### Day 32 - Unbounded Knapsack 
  5. Coin Change 
  6. Minimum Cost for Tickets 
  7. Coin Change II 
- ### LCS 
+ ### Day 33 - LCS
  8. Longest Common Subsequence 
  9. Distinct Subsequence 
  10. Edit Distance 
  11. Interleaving String
  12. Shortest Common Supersequence 
- ### Palindromes
+ ### Day 34 - Palindromes
  13. Longest Palindromic Substring 
  14. Palindromic Substrings
  15. Longest Palindromic Subsequence 
