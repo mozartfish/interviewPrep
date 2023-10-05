@@ -3,7 +3,7 @@ Preparing for coding interviews (industry, R&D).\
 There is some overlap between the lists for problems
 ## Problem Lists
 Neetcode <https://neetcode.io/practice>\
-Grind 150 <https://www.techinterviewhandbook.org/grind75>\
+Grind 169 <https://www.techinterviewhandbook.org/grind75>\
 Sean Prashad <https://seanprashad.com/leetcode-patterns/>
 
 # NeetCode Data Structures + Algorithms
