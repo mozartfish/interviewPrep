@@ -206,3 +206,21 @@ Neetcode <https://neetcode.io/practice>
  15. Longest Palindromic Subsequence 
 
 # Neetcode 150
+## Arrays + Hashing 
+## Two Pointers 
+## Sliding Window 
+## Stack 
+## Binary Search 
+## Linked List 
+## Trees 
+## Tries 
+## Heaps + Priority Queues 
+## Backtracking 
+## Graphs 
+## Advanced Graphs 
+## 1-D Dynamic Programming 
+## 2-D Dynamic Programming 
+## Greedy 
+## Intervals 
+## Math + Geometry 
+## Bit Manipulation
