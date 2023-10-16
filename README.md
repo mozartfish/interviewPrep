@@ -1,10 +1,7 @@
 # README 
-Preparing for coding interviews (industry, R&D).\
-There is some overlap between the lists for problems
+Preparing for coding interviews
 ## Problem Lists
-Neetcode <https://neetcode.io/practice>\
-Grind 169 <https://www.techinterviewhandbook.org/grind75>\
-Sean Prashad <https://seanprashad.com/leetcode-patterns/>
+Neetcode <https://neetcode.io/practice>
 
 # NeetCode Data Structures + Algorithms
 ## Day 1 Arrays + Stacks 
@@ -209,5 +206,3 @@ Sean Prashad <https://seanprashad.com/leetcode-patterns/>
  15. Longest Palindromic Subsequence 
 
 # Neetcode 150
-# Grind 169
-# Sean Prashad's 171 Problems
