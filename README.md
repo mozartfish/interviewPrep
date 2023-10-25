@@ -136,7 +136,8 @@ Neetcode <https://neetcode.io/practice>
  1. Implement Trie Prefix Tree 
  2. Design Add And Search Words Data Structure 
  3. Word Search II 
- 4. Prefix and Suffix Search 
+ 4. Prefix and Suffix Search - explanation: <https://youtu.be/5ARQC33kHTs?feature=shared>
+
  ### Day 20 - Union-Find 
  5. Redundant Connection 
  6. Accounts Merge 
