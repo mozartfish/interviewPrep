@@ -1,6 +1,7 @@
 # - Keep track of nodes connected in a graph 
 # - Detect Cycles in a graph 
 # - Operate on Disjoint Sets -> sets that don't have any common elements
+# - Complexity: O(m * logn)
 class UnionFind:
     def __init__(self, n):
         self.parent = {}
