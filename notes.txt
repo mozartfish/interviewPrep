@@ -1,0 +1,33 @@
+Python Heap: heapq
+- Implementation: Min Heap 
+Heapify: heapq.heapify(list)
+- O(n) operation 
+Heap Push: heapq.heappush(heap, item)
+- O(log n)
+Heap Pop: heapq.heappop(heap)
+- O(log n)
+
+Python HashMap: dict(), defaultdict, {}
+list(dictionary)
+- turns a list of all dictionary keys 
+len(dictionary)
+- returns the number of items in dictionary 
+dictionary[key]
+- returns the item associated with key, returns error otherwise 
+dictionary[key] = value 
+- sets dictionary[key] = value 
+key in dictionary
+- returns true if dictionary has key in dictionary 
+dictionary.copy() 
+- returns a shallow copy of dictionary 
+del dictionary[key]
+- removes dictionary[key] from dictionary if key in dictionary, returns error otherwise 
+dictionary.get(key, default)
+- returns the valye for key if key in dictionary otherwise returns default value. No default, returns None 
+dictionary.items() 
+- returns a list of (key, value) pairs 
+dictionary.keys() 
+- returns a list of dictionary keys 
+dictionary.values()
+- returns a list of all the values in the dictionary 
+
