@@ -225,11 +225,14 @@ Neetcode <https://neetcode.io/practice>
 10. Linked List Cycle
 ### Trees
 11. Invert Binary Tree 
-12. Maximum Depth of BInary Tree 
+12. Maximum Depth of Binary Tree 
 13. Diameter of Binary Tree 
 14. Balanced Binary Tree 
 15. Same Tree 
+16. Subtree of Another Tree 
 ### Heap + Priority Queue
+17. Kth Largest Element In A Stream 
+18. Last Stone Weight
 ### 1-D Dynamic Programming
 ### Intervals
 ### Math + Geometry
