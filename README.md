@@ -224,6 +224,11 @@ Neetcode <https://neetcode.io/practice>
 9. Merge Two Sorted Lists
 10. Linked List Cycle
 ### Trees
+11. Invert Binary Tree 
+12. Maximum Depth of BInary Tree 
+13. Diameter of Binary Tree 
+14. Balanced Binary Tree 
+15. Same Tree 
 ### Heap + Priority Queue
 ### 1-D Dynamic Programming
 ### Intervals
