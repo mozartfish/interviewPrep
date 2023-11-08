@@ -32,7 +32,10 @@ Neetcode <https://neetcode.io/practice>
 17. Kth Largest Element In A Stream 
 18. Last Stone Weight
 ### 1-D Dynamic Programming
+19. Climbing Stairs
+20. Min Cost Climbing Stairs
 ### Intervals
+21. Meeting Rooms
 ### Math + Geometry
 ### Bit Manipulation
 
