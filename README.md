@@ -37,7 +37,10 @@ Neetcode <https://neetcode.io/practice>
 ### Intervals
 21. Meeting Rooms
 ### Math + Geometry
+22. Happy Number
+23. Plus One 
 ### Bit Manipulation
+24. Single Number
 
 ## Medium 
 ### Arrays + Hashing
