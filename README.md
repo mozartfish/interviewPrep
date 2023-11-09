@@ -41,6 +41,10 @@ Neetcode <https://neetcode.io/practice>
 23. Plus One 
 ### Bit Manipulation
 24. Single Number
+25. Number of 1 Bits 
+26. Counting Bits 
+27. Reverse Bits 
+28. Missing Number
 
 ## Medium 
 ### Arrays + Hashing
