@@ -4,83 +4,12 @@ Preparing for coding interviews
 Neetcode <https://neetcode.io/practice>
 
 # Neetcode 150
-## Easy 
-### Arrays + Hashing 
-1. Contains Duplicates
-2. Valid Anagram
-3. Two Sum
-### Two Pointers
-4. Valid Palindrome
-### Sliding Window
-5. Best Time to Buy and Sell Stock
-### Stack
-6. Valid Parentheses
-### Binary Search
-7. Binary Search
-### Linked List
-8. Reverse Linked List
-9. Merge Two Sorted Lists
-10. Linked List Cycle
-### Trees
-11. Invert Binary Tree 
-12. Maximum Depth of Binary Tree 
-13. Diameter of Binary Tree 
-14. Balanced Binary Tree 
-15. Same Tree 
-16. Subtree of Another Tree 
-### Heap + Priority Queue
-17. Kth Largest Element In A Stream 
-18. Last Stone Weight
-### 1-D Dynamic Programming
-19. Climbing Stairs
-20. Min Cost Climbing Stairs
-### Intervals
-21. Meeting Rooms
-### Math + Geometry
-22. Happy Number
-23. Plus One 
-### Bit Manipulation
-24. Single Number
-25. Number of 1 Bits 
-26. Counting Bits 
-27. Reverse Bits 
-28. Missing Number
-
-## Medium 
-### Arrays + Hashing
-### Two Pointers
-### Sliding Window
-### Stack
-###  Binary Search
-###  Linked List
-
-### Trees 
-### Tries
-### Heap + Priority Queue
-### Backtracking
-### Graphs
-### Advanced Graphs
-### 1-D Dynamic Programming
-### 2-D Dynamic Programming
-### Greedy Algorithms
-### Intervals
-### Math + Geometry
-### Bit Manipulation
-
-## Hard 
-### Two Pointers
-### Sliding Window 
-### Stack 
-### Binary Search
-### Linked List 
-### Trees 
-### Tries 
-### Heap + Priority Queue 
-### Backtracking 
-### Graphs 
-### Advanced Graphs 
-### 2-D Dyanmic Programming 
-### Intervals 
+## Arrays + Hashing 
+1. Contains Duplicate 
+2. Valid Anagram 
+3. Two Sum 
+4. Group Anagrams 
+5. Top K Frequent Elements 
 
 # NeetCode Data Structures + Algorithms
 
