@@ -10,6 +10,7 @@ Neetcode <https://neetcode.io/practice>
 3. Two Sum 
 4. Group Anagrams 
 5. Top K Frequent Elements 
+6. Product of Array Except Self 
 
 # NeetCode Data Structures + Algorithms
 
