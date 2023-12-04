@@ -12,6 +12,9 @@ Neetcode <https://neetcode.io/practice>
 5. Top K Frequent Elements 
 6. Product of Array Except Self 
 7. Valid Sudoku 
+8. Encode and Decode Strings 
+9. Longest Consecutive Sequence 
+10. Valid Palindrome 
 
 # NeetCode Data Structures + Algorithms
 
