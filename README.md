@@ -18,6 +18,11 @@ Neetcode <https://neetcode.io/practice>
 ## Two Pointers 
 10. Valid Palindrome 
 11. Two Sum II - Input Array Is Sorted 
-12. 3 Sum 
+12. 3Sum 
+13. Container With Most Water
+14. Trapping Rain Water
 ## Sliding Window
-
+15. Best Time to BUy and Sell Stock 
+16. Longest Substring Without Repeating Characters
+17. Longest Repeating Character Replacement
+18. Permutation In String
