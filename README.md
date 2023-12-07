@@ -22,7 +22,7 @@ Neetcode <https://neetcode.io/practice>
 13. Container With Most Water
 14. Trapping Rain Water
 ## Sliding Window
-15. Best Time to BUy and Sell Stock 
+15. Best Time to Buy and Sell Stock 
 16. Longest Substring Without Repeating Characters
 17. Longest Repeating Character Replacement
 18. Permutation In String
