@@ -24,3 +24,6 @@ Neetcode <https://neetcode.io/practice>
 
 ## Sliding Window 
 15. Best Time to Buy and Sell Stock 
+16. Longest Substring Without Repeating Characters 
+17. Longest Repeating Character Replacement 
+18. Permutation In String 
