@@ -27,3 +27,6 @@ Neetcode <https://neetcode.io/practice>
 16. Longest Substring Without Repeating Characters 
 17. Longest Repeating Character Replacement 
 18. Permutation In String 
+19. Minimum Window Substring 
+20. Sliding Window Maximum 
+21. Valid Parentheses 
