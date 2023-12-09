@@ -29,4 +29,9 @@ Neetcode <https://neetcode.io/practice>
 18. Permutation In String 
 19. Minimum Window Substring 
 20. Sliding Window Maximum 
+
+## Stack
 21. Valid Parentheses 
+22. Min Stack 
+23. Evaluate Reverse Polish Notation 
+24. Generate Parentheses 
