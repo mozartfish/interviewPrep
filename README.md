@@ -38,3 +38,8 @@ Neetcode <https://neetcode.io/practice>
 25. Daily Temperature 
 26. Car Fleet 
 27. Largest Rectangle Histogram 
+
+## Binary Search 
+28. Binary Search 
+29. Search a 2D Matrix 
+30. Koko Eating Bananas 
