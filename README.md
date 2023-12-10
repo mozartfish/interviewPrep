@@ -35,3 +35,6 @@ Neetcode <https://neetcode.io/practice>
 22. Min Stack 
 23. Evaluate Reverse Polish Notation 
 24. Generate Parentheses 
+25. Daily Temperature 
+26. Car Fleet 
+27. Largest Rectangle Histogram 
