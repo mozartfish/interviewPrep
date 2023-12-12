@@ -1,0 +1,2 @@
+Arrays 
+- Kadane's Algorithm - calculate the maximum sum subarray ending at a particular position 
