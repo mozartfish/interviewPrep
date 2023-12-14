@@ -22,3 +22,15 @@ Neetcode <https://neetcode.io/practice>
 11. Longest Repeating Character Replacement
 ### Two Pointers
 ### Prefix Sums 
+
+## Queues 
+- Number of Students Unable to Eat Lunch 
+- Implement Stack Using Queues
+
+## Linked Lists 
+### Singly Linked Lists 
+- Reverse Linked List (Iterative Solution)
+- Merge Two Sorted Lists 
+### Doubly Linked Lists 
+- Design Linked List 
+- Design Browser History 
