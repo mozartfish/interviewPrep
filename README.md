@@ -14,6 +14,11 @@ Neetcode <https://neetcode.io/practice>
 5. Maximium Sum Circular Subarray 
 6. Longest Turbulent Array
 ### Sliding Window Fixed Size 
+7. Contains Duplicate II  
+8. Number of Subarrays of Size K and Average Greater Than Or Equal To Threshold 
 ### Sliding Window Variable Size 
+9. Minimum Size Subarray Sum 
+10. Longest Substring Without Repeating Characters 
+11. Longest Repeating Character Replacement
 ### Two Pointers
 ### Prefix Sums 
