@@ -20,3 +20,9 @@ Neetcode <https://neetcode.io/practice>
 9. Minimum Size Subarray Sum
 10. Longest Substring Without Repeating Characters
 11. Longest Repeating Character Replacement
+### Two Pointers
+12. Valid Palindrome
+13. Two Sum II Input Array is Sorted
+14. Remove Duplicates From Sorted Array II
+15. Container With Most Water
+16. Trapping Rainwater
