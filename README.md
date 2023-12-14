@@ -8,6 +8,7 @@ Neetcode <https://neetcode.io/practice>
 1. Remove Duplicates From Sorted Array 
 2. Remove Element
 ### Dynamic Arrays 
+3. Concatenation of Array
 ### Kadane's Algorithm
 ### Sliding Window Fixed Size 
 ### Sliding Window Variable Size 
