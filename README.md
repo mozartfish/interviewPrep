@@ -26,3 +26,9 @@ Neetcode <https://neetcode.io/practice>
 14. Remove Duplicates From Sorted Array II
 15. Container With Most Water
 16. Trapping Rainwater
+### Prefix Sums 
+17. Range Sum Query - Immutable 
+18. Range Sum Query 2D Immutable 
+19. Find Pivot Index 
+20. Product of Array Except Self
+21. Subarray Sum Equals K 
