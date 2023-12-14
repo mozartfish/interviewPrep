@@ -7,4 +7,5 @@ Neetcode <https://neetcode.io/practice>
 ### Static Arrays
 1. Remove Duplicates From Sorted Array
 2. Remove Element
-
+### Dynamic Arrays
+3. Concatenation of Array
