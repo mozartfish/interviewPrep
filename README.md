@@ -9,3 +9,7 @@ Neetcode <https://neetcode.io/practice>
 2. Remove Element
 ### Dynamic Arrays
 3. Concatenation of Array
+### Kadane's Algorithm
+4. Maximum Subarray
+5. Maximium Sum Circular Subarray
+6. Longest Turbulent Array
