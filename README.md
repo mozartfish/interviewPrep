@@ -21,7 +21,20 @@ Neetcode <https://neetcode.io/practice>
 10. Longest Substring Without Repeating Characters 
 11. Longest Repeating Character Replacement
 ### Two Pointers
+12. Valid Palindrome 
+13. Two Sum II Input Array is Sorted
+14. Remove Duplicates from Sorted Array (already done in static arrays)
+15. Remove Duplicates From Sorted Array II 
+16. COntainer With Most Water
+17. Trapping Rainwater
 ### Prefix Sums 
+18. Range Sum Query - Immutable 
+19. Range Sum Query 2D Immutable 
+20. Find Pivot Index 
+21. Product of Array Except Self 
+22. Subarray Sum Equals K 
+
+## Stacks 
 
 ## Queues 
 - Number of Students Unable to Eat Lunch 
