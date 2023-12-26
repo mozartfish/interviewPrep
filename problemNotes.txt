@@ -1,0 +1,13 @@
+Kadane Algorithm
+- use for problems requiring to maximize/minimize a sum/value 
+
+Sliding Window Fixed Size 
+- use for problems requiring a specific window/subarray such 
+as finding a contiguous subarray of values 
+
+Sliding Window Variable Size 
+- use for problems where we can keep expanding the window 
+as long as we don't break the constraint 
+
+Two Pointers 
+- use for problems for searching for pairs or until a condition is met 
