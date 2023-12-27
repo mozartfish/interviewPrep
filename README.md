@@ -12,7 +12,7 @@ Neetcode <https://neetcode.io/practice>
 3. Concatenation of Array
 
 ### Kadane's Algorithm
-4. Maximum Subarray
+4. Maximum Subarray (**Neet 150**)
 5. Maximum Circular Subarray 
 6. Longest Turbulent Array
 
@@ -22,6 +22,12 @@ Neetcode <https://neetcode.io/practice>
 
 ### Sliding Window of Variable Size 
 9. Minimum Size Subarray Sum
-10. Longest Substring Without Repeating Characters 
-11. Longest Repeating Character Replacement 
+10. Longest Substring Without Repeating Characters (**Neet 150**)
+11. Longest Repeating Character Replacement (**Neet 150**)
 
+### Two Pointers 
+12. Valid Palindrome **Neet 150**
+13. Two Sum II Input Array Is Sorted **Neet 150**
+14. Remove Duplicates from Sorted Array II
+15. Container With Most Water **Neet 150**
+16. Trapping Rainwater **Neet 150**
