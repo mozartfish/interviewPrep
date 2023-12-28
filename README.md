@@ -26,8 +26,15 @@ Neetcode <https://neetcode.io/practice>
 11. Longest Repeating Character Replacement (**Neet 150**)
 
 ### Two Pointers 
-12. Valid Palindrome **Neet 150**
-13. Two Sum II Input Array Is Sorted **Neet 150**
+12. Valid Palindrome (**Neet 150**)
+13. Two Sum II Input Array Is Sorted (**Neet 150**)
 14. Remove Duplicates from Sorted Array II
-15. Container With Most Water **Neet 150**
-16. Trapping Rainwater **Neet 150**
+15. Container With Most Water (**Neet 150**)
+16. Trapping Rainwater (**Neet 150**)
+
+### Prefix Sums 
+17. Range Sum Query - Immutable 
+18. Range Sum Query 2D - Immutable 
+19. Find Pivot Index 
+20. Product of Array Except Self (**Neet 150**)
+21. Subarray Sum Equals K 
