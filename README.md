@@ -38,3 +38,8 @@ Neetcode <https://neetcode.io/practice>
 19. Find Pivot Index 
 20. Product of Array Except Self (**Neet 150**)
 21. Subarray Sum Equals K 
+
+### Stacks 
+22. Baseball Game 
+23. Valid Parentheses 
+24. Min Stack 
