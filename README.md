@@ -41,5 +41,5 @@ Neetcode <https://neetcode.io/practice>
 
 ### Stacks 
 22. Baseball Game 
-23. Valid Parentheses 
-24. Min Stack 
+23. Valid Parentheses (**Neet 150**)
+24. Min Stack (**Neet 150**)
