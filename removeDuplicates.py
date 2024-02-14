@@ -5,7 +5,6 @@ class Solution:
         - nums is sorted in non-decreasing order
         - required to remove duplicates in place such that each unique element appears only once 
         - relative order of elements should be kept the same 
-        - runtime - O(n) where n represents the number of elements in the array
         '''
 
         i = 1 
