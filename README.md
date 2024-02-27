@@ -15,3 +15,7 @@ Neetcode <https://neetcode.io/practice>
 4. Maximum Subarray 
 5. Maximum Sum Circular Subarray 
 6. Longest Turbulent Array 
+
+### Sliding Window Fixed Size 
+7. Contains Duplicate II 
+8. Number of Subarrays of Size K and Average Greater than or Equal to Threshold 
