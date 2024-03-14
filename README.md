@@ -13,3 +13,5 @@ Neetcode <https://neetcode.io/practice>
 
 ### Kadane's Algorithm 
 4. Maximum Subarray 
+5. Maximum Sum Circular Subarray 
+6. Longest Turbulent Subarray 
