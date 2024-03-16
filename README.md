@@ -20,3 +20,8 @@ Neetcode <https://neetcode.io/practice>
 7. Contains Duplicate II 
 8. Number of Subarrays of Size K and Average Greater than or Equal to Threshold 
 
+### Sliding Window Variable Size
+9. Minimum Size Subarray Sum 
+10. Longest Substring Without Repeating Characters 
+11. Longest Repeating Character Replacement 
+
