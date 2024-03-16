@@ -1,3 +1,4 @@
+# Number of Subarrays of Size K and Average Greater than or Equal to Threshold
 class Solution:
     def numOfSubarrays(self, arr: List[int], k: int, threshold: int) -> int:
         count = 0
